@@ -1,5 +1,5 @@
-#Algorithms and data structures project 2019/2020, Polimi 
-##edU, or ed with multiple Undo
+# Algorithms and data structures project 2019/2020, Polimi 
+## edU, or ed with multiple Undo
 The projects consists in implementing a text editor. The editor considers a document as a sequence of lines, numbered starting from one.  
 The UI is a textual interface based on commands.  
 Every command ends in a new line character.  
