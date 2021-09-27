@@ -6,7 +6,7 @@ Every command ends in a new line character.
 A command can be followed by a text portion (one or more lines) ending with a '.' (dot) character as the only character on the following line.  
 Every command is made of a single letter, optionally forerun by one or two integers which may represent an address specifier.  
 The first line of the text has address one.
-##Commands
+## Commands
 | Command | What it does |
 |---------|--------------|
 |(ind1,ind2)c|Changes the text from line ind1 to line ind2 (ind1 and ind2 included). The text following this command must have ind2 - ind1 + 1 lines. Ind1 must be the address of an already existing line of text, or the first address after the last line of text|
